@@ -9,5 +9,5 @@ b = 7
 sum = a + b
 
 # Print the result
-print("The sum of", a, "and", main, "is", sum)
+print("The sum of", a, "and", prod, "is", sum)
 
