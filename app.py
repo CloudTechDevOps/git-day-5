@@ -1,7 +1,7 @@
 # Simple Python Program
 
 # Print a message
-print("main")
+print("dev-1")
 
 # Add two numbers
 a = 5
