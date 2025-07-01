@@ -2,7 +2,6 @@
 
 # Print a message
 print("dev-2")
-
 # Add two numbers
 a = 5
 b = 7
