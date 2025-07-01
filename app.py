@@ -1,7 +1,7 @@
 # Simple Python Program
 
 # Print a message
-print("Hello, nareshit!")
+print("main")
 
 # Add two numbers
 a = 5
